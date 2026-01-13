@@ -1,4 +1,4 @@
-🩸 A-Machine-Learning-Based-Framework-for-Blood-Glucose-Level-Prediction-Using-Clinical-Health-Data
+🩸 Predictive Modeling of Blood Glucose Levels Using Clinical and Lifestyle Health Indicators
 
 📌 Project Overview
 
