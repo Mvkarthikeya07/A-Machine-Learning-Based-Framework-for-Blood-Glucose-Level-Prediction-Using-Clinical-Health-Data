@@ -245,10 +245,6 @@ Ability to build and deploy end-to-end ML systems
 
 It is well-suited for:
 
-DAAD scholarship applications
-
-German public university Master’s programs
-
 Research-oriented academic evaluation
 
 Technical interviews and project defense
